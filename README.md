@@ -1,6 +1,6 @@
-# MTL_librerank
+# Controllable-Multi-Objective-Reranking
 
-MTL_librerank is an extended version of [LibRerank](https://github.com/LibRerank-Community/LibRerank) 
+Controllable-Multi-Objective-Reranking is modified on [LibRerank](https://github.com/LibRerank-Community/LibRerank) 
 
 ## Requirements
 
