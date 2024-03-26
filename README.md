@@ -54,3 +54,17 @@ python run_reranker.py
 Model parameters can be set by using a config file, and specify its file path at `--setting_path`, e.g., `python run_ranker.py --setting_path config`. The config files for the different models can be found in `example/config`. Moreover, model parameters can also be directly set from the command line.
 
 **For more information please refer to [LibRerank_README.md](./LibRerank_README.md)**
+
+## Citation
+
+Please cite our paper if you use this repository.
+
+```
+@inproceedings{chen2023controllable,
+  title={Controllable Multi-Objective Re-ranking with Policy Hypernetworks},
+  author={Chen, Sirui and Wang, Yuan and Wen, Zijing and Li, Zhiyu and Zhang, Changshuo and Zhang, Xiao and Lin, Quan and Zhu, Cheng and Xu, Jun},
+  booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={3855--3864},
+  year={2023}
+}
+```
