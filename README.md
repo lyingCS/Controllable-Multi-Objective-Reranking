@@ -1,4 +1,4 @@
-# Controllable-Multi-Objective-Reranking
+# Controllable Multi-Objective Re-ranking with Policy Hypernetworks
 
 Controllable-Multi-Objective-Reranking is modified on [LibRerank](https://github.com/LibRerank-Community/LibRerank) 
 
