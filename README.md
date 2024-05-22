@@ -1,4 +1,4 @@
-# Controllable Multi-Objective Re-ranking with Policy Hypernetworks
+# [Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796) (SIGKDD 2023)
 
 Controllable-Multi-Objective-Reranking is modified on [LibRerank](https://github.com/LibRerank-Community/LibRerank) 
 
